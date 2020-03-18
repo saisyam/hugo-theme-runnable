@@ -1,0 +1,18 @@
+baseURL = "https://saisyam.github.io/runnable/"
+languageCode = "en-us"
+title = "Hugo Title"
+theme = "runnable"
+author = "Saisyam Dampuri"
+paginate = 5
+canonifyurls = true
+disqusShortname = "saisyam-1"
+pygmentscodefences = true
+pygmentsStyle      = "tango"
+publishDir = "docs"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[params]
+github = "https://github.com/saisyam"
+linkedin = "https://www.linkedin.com/in/saisyam/"
