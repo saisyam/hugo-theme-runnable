@@ -1,4 +1,4 @@
-baseURL = "https://saisyam.github.io/runnable/docs"
+baseURL = "https://saisyam.github.io/runnable"
 languageCode = "en-us"
 title = "Hugo Title"
 theme = "runnable"
