@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on Hugo Title</title>
-    <link>https://saisyam.github.io/runnable/docs/docker/</link>
+    <link>https://saisyam.github.io/runnable/docker/</link>
     <description>Recent content in Docker on Hugo Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://saisyam.github.io/runnable/docs/docker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://saisyam.github.io/runnable/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is Docker?</title>
-      <link>https://saisyam.github.io/runnable/docs/docker/what-is-docker/</link>
+      <link>https://saisyam.github.io/runnable/docker/what-is-docker/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saisyam.github.io/runnable/docs/docker/what-is-docker/</guid>
+      <guid>https://saisyam.github.io/runnable/docker/what-is-docker/</guid>
       <description>Docker contianerization is the next big thing happening in the World today
 CMD [ &amp;#34;python&amp;#34;, &amp;#34;./my_script.py&amp;#34; ] </description>
     </item>
     
     <item>
       <title>Why use Docker?</title>
-      <link>https://saisyam.github.io/runnable/docs/docker/why-user-docker/</link>
+      <link>https://saisyam.github.io/runnable/docker/why-user-docker/</link>
       <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://saisyam.github.io/runnable/docs/docker/why-user-docker/</guid>
+      <guid>https://saisyam.github.io/runnable/docker/why-user-docker/</guid>
       <description></description>
     </item>
     
