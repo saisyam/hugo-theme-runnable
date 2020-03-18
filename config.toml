@@ -8,7 +8,6 @@ canonifyurls = true
 disqusShortname = "saisyam-1"
 pygmentscodefences = true
 pygmentsStyle      = "tango"
-publishDir = "docs"
 
 [markup.goldmark.renderer]
 unsafe= true
