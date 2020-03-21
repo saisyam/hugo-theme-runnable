@@ -43,19 +43,19 @@ Opening the browser with the above URL, `http://127.0.0.1:5000/` will open the p
 Let's look bit deeper into the application:
 
 
-{{< mygist url="http://gistify.saisyam.com/https://github.com/saisyam/python-flask/blob/master/simple/app.py/l/1,2" >}}
+{{< mygist url="https://gistify.saisyam.com/https://github.com/saisyam/python-flask/blob/master/simple/app.py/l/1,2" >}}
 
 
 In the above two statements we are importing Flask class and creating an instance of Flask class, `app`. The `__name_` paramater to the Flask object is used to find the resources on the file system related to this application. We will discuss about this in our later articled.
 
-{{< mygist url="http://gistify.saisyam.com/https://github.com/saisyam/python-flask/blob/master/simple/app.py/l/4-6" >}}
+{{< mygist url="https://gistify.saisyam.com/https://github.com/saisyam/python-flask/blob/master/simple/app.py/l/4-6" >}}
 
 
 We have created our first route. Route is the URL which has some meaning. Here we are creating the route for base URL. Some examples of routes can be, `/users/`, `/products/` which represents list of users and products respectively. We will discuss about routes in future articles. We are returning a string `Welcome to Flask!` with H1 tag. Flask also supports templates where we have more detailed HTML pages.
 
 The last section is where we run the application. By default Flask run on port `5000` and bind to `localhost`, but we can make it to run on different ports and accessible outside the localhost by providing `host` and '`port` paramteters.
 
-{{< mygist url="http://gistify.saisyam.com/https://github.com/saisyam/python-flask/blob/master/simple/app.py/l/8,9" >}}
+{{< mygist url="https://gistify.saisyam.com/https://github.com/saisyam/python-flask/blob/master/simple/app.py/l/8,9" >}}
 
 
 
